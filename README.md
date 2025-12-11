@@ -84,6 +84,8 @@ Figma provides two methods to connect MCP: **Desktop App** (local server) and **
 3. Follow the authentication prompts to allow access
 4. Once connected, the MCP server is ready to use
 
+**⚠️ Important Note:** The Figma Remote MCP Server (`https://mcp.figma.com/mcp`) has **rate limits**. If you encounter rate limiting issues or need higher performance, consider using **Method 1 (Desktop App)** with the local server instead, which does not have rate limits.
+
 ### Step 4: Verify Connection
 
 1. Open a chat in Cursor
